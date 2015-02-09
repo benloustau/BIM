@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  border:1em solid rgba(226,226,226,.8);
+  border:1.5em solid rgba(226,226,226,.8);
   margin:0 auto;
 }
 *, *:before, *:after {
@@ -12,18 +12,18 @@ body{
 }
 	
 nav{
-	background: url(pilates.jpg) no-repeat center center fixed; 
+	background: url(pilates-home.jpg);
  	-webkit-background-size: cover;
  	-moz-background-size: cover;
  	-o-background-size: cover;
- 	background-size: cover;
-  	min-height: 100%;
- 	margin:0 auto;
-	width:100%;
+ 	background-size: 97%;
+ 	background-position: 1.6em -10em;
+ 	background-image: 100%;
+	min-height: 100%;
+ 	margin: 0 auto;
 	height:28em;
 	border:none;
 }
-
 .inline-home{
 	width:19.45%;
 	height:100%;
